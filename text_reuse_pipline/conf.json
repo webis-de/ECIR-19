@@ -1,0 +1,9 @@
+{
+	"output_path": "/user/sile2804",
+	"data_path": "/user/waje8705/wiki-text/wiki_00",
+	"tf_idf_num_parts" : 3,
+	"similarity_broadcasts_no" : 37,
+	"similarity_threshold" : 0.1,
+	"nb_features": 262144
+
+}
